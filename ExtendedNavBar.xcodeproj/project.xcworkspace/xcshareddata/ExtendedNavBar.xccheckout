@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>01518072-1209-4B43-8133-1EA62BC8B236</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExtendedNavBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0ABD963E9A3C2D6AAA2804CC56BEEADE0D74168</key>
+		<string>https://github.com/mapostolakis/ExtendedNavBar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ExtendedNavBar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0ABD963E9A3C2D6AAA2804CC56BEEADE0D74168</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mapostolakis/ExtendedNavBar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0ABD963E9A3C2D6AAA2804CC56BEEADE0D74168</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0ABD963E9A3C2D6AAA2804CC56BEEADE0D74168</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExtendedNavBar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
